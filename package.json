@@ -1,0 +1,22 @@
+{
+  "name": "good-readme-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamLaskowski1/Good-README-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamLaskowski1/Good-README-test/issues"
+  },
+  "homepage": "https://github.com/AdamLaskowski1/Good-README-test#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
