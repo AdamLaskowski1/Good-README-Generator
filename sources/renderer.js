@@ -5,7 +5,7 @@ function renderREADME(props){
 
 # ${userName}
 
-## Link to deployable application
+## Link to Application
 ${application}
 
 ## Installation
