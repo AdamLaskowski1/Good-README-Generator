@@ -1,5 +1,5 @@
 function renderREADME(props){
-    const {projectName, userName, application, installation, usage, contributing, license, tests, email, phone} = props
+    const {projectName, userName, description, application, installation, usage, contributing, license, tests, email, phone} = props
     return `
 # ${projectName}
 
