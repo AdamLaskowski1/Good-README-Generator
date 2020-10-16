@@ -16,6 +16,11 @@ function promptUser() {
       },
       {
         type: "input",
+        name: "description",
+        message: "Write a brief description of your project"
+      },
+      {
+        type: "input",
         name: "application",
         message: "Provide a link to your deployable application"
       },
@@ -31,7 +36,7 @@ function promptUser() {
       },
       {
         type: "input",
-        name: "credits",
+        name: "contributing",
         message: "List your collaborators, if any"
       },
       {
@@ -39,6 +44,21 @@ function promptUser() {
         message: "Choose a license for the project",
         name: "license",
         choices: license
+      },
+      {
+        type: "input",
+        message: "Write tests for your application. Then provide examples on how to run them.",
+        name: "tests"
+      },
+      {
+        type: "input",
+        name: "email",
+        message: "What is a good email to list for questions?"
+      },
+      {
+        type: "input",
+        name: "phone",
+        message: "What is a good phone number that case be listed for questions?"
       }
     ]);
   }
