@@ -36,4 +36,4 @@ For any questions reguarding this project, please reach out to me at:
 * Phone: (210) 882-8180
 * Email: adam.laskowski1127@gmail.com
 
-![Code-Quiz Demo](C:\Users\adaml\GoodReadMePractice\Good-README-test\gif.gif)
+![GOOD-README-TEST](C:\Users\adaml\GoodReadMePractice\Good-README-test\gif.gif)
