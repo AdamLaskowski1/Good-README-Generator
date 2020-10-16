@@ -6,12 +6,14 @@
 This js file will allow the user to create a README.md by answering the questions pertaining to their project
 
 ## Table of Contents
-* Installation
-* Usage
-* Contributing
-* License
-* Tests
-* Questions
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Tests](#Test)
+- [Questions](#Questions)
+
+![GOOD-README-TEST](sources/gif.gif)
 
 ## Link to Application
 https://adamlaskowski1.github.io/Good-README-generator/

@@ -9,12 +9,14 @@ function renderREADME(props){
 ${description}
 
 ## Table of Contents
-* Installation
-* Usage
-* Contributing
-* License
-* Tests
-* Questions
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Tests](#Test)
+- [Questions](#Questions)
+
+![GOOD-README-TEST](sources/gif.gif)
 
 ## Link to Application
 ${application}

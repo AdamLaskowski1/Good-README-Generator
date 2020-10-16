@@ -1,26 +1,29 @@
-# Good README generator
+
+# Good README Generator
 
 # Adam Laskowski
 
 ## Description
-This js file will allow the user to create a README.md by answering the questions pertaining to their project
+This projects allows a user to quickly generate a README.md file for any project.
 
 ## Table of Contents
-* Installation
-* Usage
-* Contributing
-* License
-* Tests
-* Questions
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#Contributing)
+- [License](#License)
+- [Tests](#Test)
+- [Questions](#Questions)
+
+![GOOD-README-TEST](sources/gif.gif)
 
 ## Link to Application
 https://adamlaskowski1.github.io/Good-README-generator/
 
 ## Installation
-The user must first install node.js from their browser. After completing this the user must then install inquirer with "npm install inquirer" in the integrated terminal.
+First insall node.js and then run install inquirer in the integrated terminal
 
 ## Usage
-This can be used to quickly create a quality README.md file.
+This program allows a web developer to write a README quickly, easily and concisely.
 
 ## Contributing
 N/A
@@ -29,11 +32,10 @@ N/A
 Academic Free License v3.0
 
 ## Tests
-N/A
+No tests at this moment
 
 ## Questions
 For any questions reguarding this project, please reach out to me at:
-* Phone: (210) 882-8180
+* Phone: 210-882-8180
 * Email: adam.laskowski1127@gmail.com
 
-![GOOD-README-TEST](C:\Users\adaml\GoodReadMePractice\Good-README-test\gif.gif)
