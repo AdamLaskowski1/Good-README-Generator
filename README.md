@@ -15,7 +15,7 @@ This js file will allow the user to create a README.md by answering the question
 * Questions
 
 ## Link to Application
-https://adamlaskowski1.github.io/Good-README-test/
+https://adamlaskowski1.github.io/Good-README-generator/
 
 ## Installation
 The user must first install node.js from their browser. After completing this the user must then install inquirer with "npm install inquirer" in the integrated terminal.
